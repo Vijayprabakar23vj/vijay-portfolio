@@ -460,7 +460,7 @@ h3,
 h4,
 h5,
 h6 {
-  margin-top: 35px;
+  margin-top: 0px;
   font-weight: 500;
   line-height: 1.2;
   -webkit-transition: color 0.3s ease-in-out;
