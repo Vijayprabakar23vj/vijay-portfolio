@@ -442,7 +442,7 @@ body {
   font-size: 14px;
   line-height: 26px;
   font-weight: normal;
-  color: var(--tp-text-body);
+  color: #000;
   font-family: var(--tp-ff-body);
 }
 
